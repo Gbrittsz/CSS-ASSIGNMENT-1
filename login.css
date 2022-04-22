@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: purple;
+     
+  }
+  
+  .SIGN-IN-TO-YOUR-ACCOUNT {
+    width: 425px; 
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 80px;
+    margin: 8% auto 0;
+    text-align: center;
+    border-radius: 10px;
+    position: relative;
+  } 
+
+  .SIGN-IN-TO-YOUR-ACCOUNT H1 {
+    font-size: 19px;
+    margin-bottom: 35px;
+    font-weight: 700;
+  }
+
+  .input-box {
+    border-radius: 0px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 280px;
+    border: 1px solid #999;
+    outline: none;
+  }
+
+  .check_box {
+    display: block;
+    padding-left: 26px;
+    text-indent: -15px;
+
+    
+     
+  }
+  
+  button {
+    color: white;
+    width: 105%;
+    padding: 10px;
+    border-radius: 0px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .signin-btn {
+    background-color: purple;
+
+  }
+
+  
+  
+  
